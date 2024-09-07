@@ -1,3 +1,3 @@
-# Estudo do Framework django
+# Estudo do Framework Django
 
 Ainda em fase inicial.
